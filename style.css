@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+  }
+
+.htext{
+  text-align: center;
+  color: rgb(24, 23, 23);
+  position: relative; 
+  margin-top: 15%;
+  margin-left: 20%;
+  margin-right: 5%;
+  font-size: 800%;
+  font-family:"Audiowide", sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+  /* background-image: url("https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"); */
+}
+
+.bg1{
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 200px;
+  /* background-image: url("https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"); */
+}
+
+.imgwatch{
+  position: absolute;
+  height:100%;
+  opacity: 0.3;
+  width:fit-content;
+}
+
+.na{
+  /* background-color: lightgrey; */
+  font-family:"Audiowide", sans-serif;
+  position: relative;
+  margin-top:5%;
+  padding-top: 5%;
+  padding-bottom:5%;
+  text-align: center;
+  text-shadow: 2px 2px 3px black;
+}
+
+.fl{
+  position: absolute;
+  padding-top: 5%;
+  margin-left:19%;
+  width: 750px;
+  height: 500px;
+}
+
+
+.foot {
+  position: absolute ;
+  background-color: rgb(90, 83, 83);
+  margin-top: 5%;
+  padding-top: 25px;
+  padding-left: 45%;
+  padding-right: 45%;
+  margin-right :0%;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
