@@ -1,0 +1,33 @@
+.topi {
+    background-color: lightgrey;
+    margin-top: 1.9cm;
+    padding: 2.5cm;
+    text-align: center;
+}
+
+.topi h1 {
+    margin-top: -1cm;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+.image img {
+    height: 7cm;
+    width: 10cm;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5cm;
+}
+
+.myfoot {
+    margin-top: 1.5cm;
+    display: flex;
+    justify-content: center;
+}
+
+.myfoot p {
+    width: 10cm;
+    font-weight: medium;
+}
